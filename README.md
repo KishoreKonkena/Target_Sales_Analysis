@@ -28,7 +28,7 @@ WHERE table_name = 'customers';
 ```
 ## Project Steps
 
-1. Data Exploration
+1. Data Exploration:
 
 Before performing analysis, the dataset was explored to understand its structure and characteristics.
 
@@ -38,7 +38,7 @@ Identified the time range for which orders were placed.
 
 Reviewed dataset size and column details to understand available attributes.
 
-2. Customer & Geographic Insights
+2. Customer & Geographic Insights:
 
 Extracted details of cities and states where customers placed orders during September & December 2018.
 
@@ -46,7 +46,7 @@ Analyzed customer distribution across states.
 
 Identified top states with the highest and lowest average freight values.
 
-3. Sales & Trend Analysis
+3. Sales & Trend Analysis:
 
 Checked if there is a growing trend in the number of orders placed across years.
 
@@ -56,19 +56,19 @@ Calculated month-on-month order volumes.
 
 Measured % increase in cost of orders between 2017 and 2018 (Jan–Aug).
 
-4. Delivery Performance
+4. Delivery Performance:
 
 Calculated the actual delivery time (days) vs. purchase date.
 
 Found the top 5 states with fastest delivery compared to estimated delivery dates.
 
-5. Payment Insights
+5. Payment Insights:
 
 Analyzed orders placed using different payment types month-on-month.
 
 Counted orders based on number of payment installments.
 
-6. Time-Based Analysis
+6. Time-Based Analysis:
 
 Categorized orders placed by time of day (Dawn, Morning, Afternoon, Night).
 
